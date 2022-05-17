@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Feed the Cat</string>
+
+    <string name="feed">Feed</string>
+    <string name="scores">Scores</string>
+    <string name="about">About</string>
+    <string name="satiety">Satiety:</string>
+    <string name="number">#</string>
+    <string name="date">Date</string>
+    <string name="score">Score</string>
+    <string name="no_scores_yet">No scores yet!</string>
+</resources>
